@@ -1,0 +1,14 @@
+<svg id="QR_код" data-name="QR код" xmlns="http://www.w3.org/2000/svg" width="24" height="23.836" viewBox="0 0 24 23.836">
+  <rect id="Rectangle_23" data-name="Rectangle 23" width="9.529" height="9.529" transform="translate(0.5 0.5)" fill="none" stroke="#858585" stroke-miterlimit="10" stroke-width="1"/>
+  <rect id="Rectangle_24" data-name="Rectangle 24" width="9.529" height="9.529" transform="translate(13.889 0.5)" fill="none" stroke="#858585" stroke-miterlimit="10" stroke-width="1"/>
+  <rect id="Rectangle_25" data-name="Rectangle 25" width="9.529" height="9.529" transform="translate(0.5 13.807)" fill="none" stroke="#858585" stroke-miterlimit="10" stroke-width="1"/>
+  <path id="Path_102" data-name="Path 102" d="M17.614,14.725H15.807v9.529h1.807" transform="translate(-2 -1)" fill="none" stroke="#858585" stroke-miterlimit="10" stroke-width="1"/>
+  <line id="Line_23" data-name="Line 23" x2="2.793" transform="translate(18.079 13.725)" fill="none" stroke="#858585" stroke-miterlimit="10" stroke-width="1"/>
+  <line id="Line_24" data-name="Line 24" x2="1.486" transform="translate(22.514 13.725)" fill="none" stroke="#858585" stroke-miterlimit="10" stroke-width="1"/>
+  <line id="Line_25" data-name="Line 25" x2="0.986" transform="translate(18.079 23.336)" fill="none" stroke="#858585" stroke-miterlimit="10" stroke-width="1"/>
+  <path id="Path_103" data-name="Path 103" d="M22.954,17.929H20.161v3.614H22.79" transform="translate(-2 -1)" fill="none" stroke="#858585" stroke-miterlimit="10" stroke-width="1"/>
+  <path id="Path_104" data-name="Path 104" d="M25.5,17.847v6.407H23.364" transform="translate(-2 -1)" fill="none" stroke="#858585" stroke-miterlimit="10" stroke-width="1"/>
+  <rect id="Rectangle_26" data-name="Rectangle 26" width="3.779" height="3.779" transform="translate(3.293 3.375)" fill="#858585"/>
+  <rect id="Rectangle_27" data-name="Rectangle 27" width="3.779" height="3.779" transform="translate(16.6 3.375)" fill="#858585"/>
+  <rect id="Rectangle_28" data-name="Rectangle 28" width="3.779" height="3.779" transform="translate(3.293 16.518)" fill="#858585"/>
+</svg>

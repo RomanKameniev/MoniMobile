@@ -1,0 +1,13 @@
+<svg id="иконка_оплатить" data-name="иконка оплатить" xmlns="http://www.w3.org/2000/svg" width="55" height="55" viewBox="0 0 55 55">
+  <circle id="Ellipse_6-2" data-name="Ellipse 6-2" cx="27.5" cy="27.5" r="27.5" fill="#fff"/>
+  <g id="Group_36" data-name="Group 36" transform="translate(11.995 17.791)">
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="22.018" height="13.63" rx="1.958" transform="translate(9.777 6.718)" fill="none" stroke="#1a4b72" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="Path_81" data-name="Path 81" d="M42.019,33.51V27.991a1.2,1.2,0,0,0-1.2-1.2H21.2a1.2,1.2,0,0,0-1.2,1.2V39.229a1.2,1.2,0,0,0,1.2,1.2H29.77" transform="translate(-19.995 -26.791)" fill="none" stroke="#1a4b72" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_13" data-name="Line 13" x2="17.712" transform="translate(11.946 17.529)" fill="none" stroke="#1a4b72" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_14" data-name="Line 14" x2="3.777" transform="translate(12.139 10.21)" fill="none" stroke="#1a4b72" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <line id="Line_15" data-name="Line 15" x2="6.22" transform="translate(12.139 12.037)" fill="none" stroke="#1a4b72" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="Ellipse_115" data-name="Ellipse 115" cx="2.094" cy="2.094" r="2.094" transform="translate(22.634 8.76)" fill="#1a4b72"/>
+    <circle id="Ellipse_116" data-name="Ellipse 116" cx="2.094" cy="2.094" r="2.094" transform="translate(25.775 8.76)" fill="#1a4b72"/>
+    <path id="Path_88" data-name="Path 88" d="M20.03,29.356H42.018V31.8H20.03Z" transform="translate(-19.995 -26.791)" fill="#1a4b72"/>
+  </g>
+</svg>
